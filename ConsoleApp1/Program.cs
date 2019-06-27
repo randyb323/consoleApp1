@@ -17,6 +17,7 @@ namespace ConsoleApp1
             }
             finally
             {
+                //Comment added 
                 Console.WriteLine("Finally Block");
             }
         }
